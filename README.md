@@ -1,13 +1,9 @@
 # TicTacToe
-2 player TicTacToe game using only QWERTY characters as the UI 
-
-
-
 
 
 My first python project ever!
 
-This was created during my completion of a python course I found online. Simple game using a made up interface.
+This was created during my completion of a python course I found online. It is a simple 2 player TicTacToe game using only QWERTY characters as the UI.
 
 
 
